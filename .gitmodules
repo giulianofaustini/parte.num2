@@ -1,0 +1,6 @@
+[submodule "phone"]
+	path = phone
+	url = ./phone
+[submodule "courseinformation"]
+	path = courseinformation
+	url = ./courseinformation
